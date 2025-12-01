@@ -1,0 +1,14 @@
+1.12.2025, 17:43:43 - ERROR - ERROR - cannot get bugs: | TypeError: Cannot read properties of undefined (reading 'txt')
+1.12.2025, 17:43:43 - ERROR - ERROR - cannot get bugs: | TypeError: Cannot read properties of undefined (reading 'txt')
+1.12.2025, 17:44:44 - ERROR - ERROR - cannot get bugs: | TypeError: Cannot read properties of undefined (reading 'txt')
+1.12.2025, 17:44:44 - ERROR - ERROR - cannot get bugs: | TypeError: Cannot read properties of undefined (reading 'txt')
+1.12.2025, 17:44:55 - ERROR - ERROR - cannot get bugs: | TypeError: Cannot read properties of undefined (reading 'txt')
+1.12.2025, 17:44:55 - ERROR - ERROR - cannot get bugs: | TypeError: Cannot read properties of undefined (reading 'txt')
+1.12.2025, 17:47:23 - ERROR - ERROR - cannot get bugs: | TypeError: Cannot read properties of undefined (reading 'txt')
+1.12.2025, 17:47:23 - ERROR - ERROR - cannot get bugs: | TypeError: Cannot read properties of undefined (reading 'txt')
+1.12.2025, 17:50:33 - ERROR - ERROR - cannot get bugs: | TypeError: Cannot read properties of undefined (reading 'txt')
+1.12.2025, 17:50:33 - ERROR - ERROR - cannot get bugs: | TypeError: Cannot read properties of undefined (reading 'txt')
+1.12.2025, 17:51:46 - ERROR - ERROR - cannot remove bugs: | no such bug with this id 1NF1N1T3
+1.12.2025, 17:57:01 - ERROR - ERROR - cannot remove bugs: | no such bug with this id 1NF1N1T3
+1.12.2025, 18:37:33 - ERROR - ERROR - cannot remove bugs: | ReferenceError: fs is not defined
+1.12.2025, 18:37:51 - ERROR - ERROR - cannot remove bugs: | ReferenceError: fs is not defined
